@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vdjso/AndroidStudioProjects/DevMuscles/app/src/main/res/drawable/buton_round.xml" value="0.3675" />
+        <entry key="..\:/Users/vdjso/AndroidStudioProjects/DevMuscles/app/src/main/res/drawable/card_main_bg.xml" value="0.3675" />
+        <entry key="..\:/Users/vdjso/AndroidStudioProjects/DevMuscles/app/src/main/res/drawable/card_red_bg.xml" value="0.3675" />
+        <entry key="..\:/Users/vdjso/AndroidStudioProjects/DevMuscles/app/src/main/res/drawable/circle.xml" value="0.3675" />
         <entry key="..\:/Users/vdjso/AndroidStudioProjects/DevMuscles/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vdjso/AndroidStudioProjects/DevMuscles/app/src/main/res/layout/activity_subscription.xml" value="0.33" />
       </map>
     </option>
   </component>

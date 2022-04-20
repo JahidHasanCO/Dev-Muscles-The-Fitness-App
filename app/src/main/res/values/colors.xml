@@ -4,7 +4,8 @@
     <color name="background">#1C1C1E</color>
     <color name="backgroundAd">#2C2C2E</color>
     <color name="mainText">#FFFFFFFF</color>
-    <color name="textAd">#505050</color>
+    <color name="textAd">#BABABA</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF2424</color>
 </resources>
