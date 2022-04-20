@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "dev.JahidHasanCo.myapplication"
+        applicationId "dev.JahidHasanCo.DevMuscles"
         minSdk 21
         targetSdk 31
         versionCode 1

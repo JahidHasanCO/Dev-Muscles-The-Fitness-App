@@ -1,4 +1,4 @@
-package dev.JahidHasanCo.myapplication
+package dev.JahidHasanCo.DevMuscles
 
 import org.junit.Test
 
